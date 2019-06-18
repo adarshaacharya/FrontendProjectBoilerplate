@@ -10,7 +10,9 @@ What does it contains ?
 
 
 #### Clone this repo
-```https://github.com/adarshaacharya/FrontendProjectBoilerplate.git
+```
+https://github.com/adarshaacharya/FrontendProjectBoilerplate.git
+
 ```
 
 
